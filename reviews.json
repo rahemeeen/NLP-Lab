@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "review": "Great product! The product arrived on time and the product quality is top notch."
+  },
+  {
+    "id": 2,
+    "review": "Terrible customer service. Service was slow, unhelpful, and rude."
+  },
+  {
+    "id": 3,
+    "review": "Amazing battery life. Battery lasts for days without needing a single charge."
+  },
+  {
+    "id": 4,
+    "review": "It works fine."
+  },
+  {
+    "id": 5,
+    "review": "Super lightweight and easy to carry around. Highly recommended for travel!"
+  },
+  {
+    "id": 6,
+    "review": "Not bad."
+  },
+  {
+    "id": 7,
+    "review": "The screen display is stunning. Display colors are vibrant and bright."
+  },
+  {
+    "id": 8,
+    "review": "Overpriced and underdelivered. Would not buy again."
+  },
+  {
+    "id": 9,
+    "review": "Fast shipping, safe packaging, fast delivery, and overall fast response from seller."
+  },
+  {
+    "id": 10,
+    "review": "Okay product."
+  }
+]
